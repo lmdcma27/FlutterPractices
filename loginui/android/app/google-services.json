@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664999368815",
+    "project_id": "authtutorial-b75d1",
+    "storage_bucket": "authtutorial-b75d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664999368815:android:48e329d16321f7cbd9559a",
+        "android_client_info": {
+          "package_name": "com.example.loginui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664999368815-m6phpe1ei04o9egrc34sf1nseqj65g4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGn_63zDqtMkVCf_sX-5tqKxeEJ8WwtRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664999368815-m6phpe1ei04o9egrc34sf1nseqj65g4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
